@@ -16,7 +16,7 @@ const About = () => {
                     <img className=' w-full md:max-w-[450px]' src={assets.about_img} alt="" />
 
                     <div className=' flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-                        <p className=' text-sm'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit auctor dui, sed efficitur enim. Sed sed nisl a metus efficitur commodo. Nulla facilisi. Donec eget nunc ac nisi tincidunt bibendum. In hac habitasse platea dictumst.</p>
+                        <p className=' text-sm'>Lorem hehe ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit auctor dui, sed efficitur enim. Sed sed nisl a metus efficitur commodo. Nulla facilisi. Donec eget nunc ac nisi tincidunt bibendum. In hac habitasse platea dictumst.</p>
 
                         <p className=' text-sm'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec suscipit auctor dui, sed efficitur enim. Sed sed nisl a metus efficitur commodo. Nulla facilisi. Donec eget nunc ac nisi tincidunt bibendum. In hac habitasse platea dictumst.</p>
 
